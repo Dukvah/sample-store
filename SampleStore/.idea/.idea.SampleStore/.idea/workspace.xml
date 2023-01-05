@@ -9,8 +9,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../BestLawyer/BestLawyer/Assets/Scripts/ScriptableSource/SCItem.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base/CameraMover.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Dot.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableSource/SCItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4a31731933e0419ca5a995305014ad37157a00/ba/8cd42096/Transform.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4a31731933e0419ca5a995305014ad37157a00/e4/32ac6492/UnityEvent`1.cs" root0="SKIP_HIGHLIGHTING" />
@@ -88,6 +86,7 @@
       <workItem from="1672832896705" duration="10759000" />
       <workItem from="1672857321521" duration="5495000" />
       <workItem from="1672865953998" duration="1179000" />
+      <workItem from="1672898627000" duration="500000" />
     </task>
     <servers />
   </component>
