@@ -30,4 +30,4 @@ public class CameraMover : MonoBehaviour
             _trackedDolly.m_PathPosition -= _speed * moveSpeedMultiply;
         }
     }
-}
+}   
